@@ -1,0 +1,122 @@
+{
+    "explore": [
+        {
+            "src": "https://images.unsplash.com/photo-1484712401471-05c7215830eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyMDUzMDJ8MHwxfHNlYXJjaHw2fHwzJTIwZnJpZW5kc3xlbnwxfHx8fDE2NTUyMzc1MzQ&ixlib=rb-1.2.1&q=80&w=1080",
+            "name": "3 Crazy friends",
+            "studio": "Kevin,Joe,nick"
+        },
+        {
+            "src": "https://images.unsplash.com/photo-1509824368942-27b294c139f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyMDUzMDJ8MHwxfHNlYXJjaHwxOHx8c3RhbmR1cHxlbnwxfHx8fDE2NTUyMzc1Nzk&ixlib=rb-1.2.1&q=80&w=1080",
+            "name": "StandUp-LOL",
+            "studio": "Enterntainment Studion"
+        },
+        {
+            "src": "https://images.unsplash.com/photo-1515536765-9b2a70c4b333?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyMDUzMDJ8MHwxfHNlYXJjaHw1fHxsYXVnaHxlbnwxfHx8fDE2ODM3MTU2ODI&ixlib=rb-4.0.3&q=80&w=1080",
+            "name": "The Big Bang ",
+            "studio": "Warner Bros"
+        },
+        {
+            "src": "https://images.unsplash.com/photo-1546525506-495a7647977b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyMDUzMDJ8MHwxfHNlYXJjaHwyOHx8dGltZXxlbnwxfHx8fDE2ODM3MTU2OTk&ixlib=rb-4.0.3&q=80&w=1080",
+            "name": "The Vampire ",
+            "studio": "Warner Bros"
+        },
+        {
+            "src": "https://images.unsplash.com/photo-1454923634634-bd1614719a7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyMDUzMDJ8MHwxfHNlYXJjaHw5fHxQZW9wbGV8ZW58MXx8fHwxNjgzNzA4MDk5&ixlib=rb-4.0.3&q=80&w=1080",
+            "name": "The Originals",
+            "studio": "Warner Bros"
+        }
+    ],
+    "podcastCategories": [
+        "News",
+        "Culture",
+        "Business",
+        "Mental health",
+        "Family",
+        "Pop",
+        "Education",
+        "Health",
+        "Art",
+        "Comedy",
+        "Sport",
+        "Society",
+        "Science",
+        "History",
+        "Movies",
+        "True crime stories",
+        "Design"
+    ],
+    "plans":[
+        {
+            "name":"Basic",
+            "price":"FREE",
+            "features":[
+                "Upto 10 episodes",
+                "5 downloads monthly",
+                "7 days trial"]
+        },
+        {
+            "name":"Pro",
+            "price":"60",
+            "features":[
+                "Unlimited episodes",
+                "Unlimited downloads",
+                "7 days trial"]
+        }
+    ],
+    "episodes": [
+        {
+            "src": "https://images.unsplash.com/photo-1484712401471-05c7215830eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyMDUzMDJ8MHwxfHNlYXJjaHw2fHwzJTIwZnJpZW5kc3xlbnwxfHx8fDE2NTUyMzc1MzQ&ixlib=rb-1.2.1&q=80&w=1080",
+            "name": "3 Crazy friends",
+            "creator": "Kevin,Joe,nick",
+            "date": "5 July"
+        },
+        {
+            "src": "https://images.unsplash.com/photo-1509824368942-27b294c139f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyMDUzMDJ8MHwxfHNlYXJjaHwxOHx8c3RhbmR1cHxlbnwxfHx8fDE2NTUyMzc1Nzk&ixlib=rb-1.2.1&q=80&w=1080",
+            "name": "StandUp-LOL",
+            "creator": "Enter Studio",
+            "date": "6 May"
+        },
+        {
+            "src": "https://images.unsplash.com/photo-1515536765-9b2a70c4b333?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyMDUzMDJ8MHwxfHNlYXJjaHw1fHxsYXVnaHxlbnwxfHx8fDE2ODM3MTU2ODI&ixlib=rb-4.0.3&q=80&w=1080",
+            "name": "The Big Bang ",
+            "creator": "Warner Bros",
+            "date": "8 May"
+        },
+        {
+            "src": "https://images.unsplash.com/photo-1546525506-495a7647977b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyMDUzMDJ8MHwxfHNlYXJjaHwyOHx8dGltZXxlbnwxfHx8fDE2ODM3MTU2OTk&ixlib=rb-4.0.3&q=80&w=1080",
+            "name": "The Vampire ",
+            "creator": "Warner Bros",
+            "date": "11 May"
+        }
+    ],
+    "suggestions":[
+        {
+            "name": "How to train a puppy in 4 easy steps",
+            "src": "/",
+            "author": "Lily Rose",
+            "date": "11 May 2023",
+            "duration": "58 mins"
+        },
+        {
+            "name": "How does meditation alter your brain?",
+            "src": "/",
+            "author": "Freddy Icy",
+            "date": "23 May 2023",
+            "duration": "1 hr 20 mins"
+        },
+        {
+            "name": "What is the best way to learn a new language?",
+            "src": "/",
+            "author": "Andrew Simmens",
+            "date": "11 June 2023",
+            "duration": "1 hr 30 mins"
+        },
+        {
+            "name": "Choosing a perfect car for beginners",
+            "src": "/",
+            "author": "Villinat Volant",
+            "date": "11 June 2023",
+            "duration": "1 hr 30 mins"
+        }
+    ]
+}
