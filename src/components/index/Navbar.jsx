@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <nav className="flex justify-between items-center px-4 py-3">
   {/* <!-- First Sub-Div --> */}
-  <div className="flex flex-row space-x-8">
+  <div className="flex flex-row space-x-8 items-center">
     <h1 className="font-bold text-2xl">Podcaster</h1>
     <ul className="flex space-x-4">
       <li><a href="#" className="text-gray-900 hover:text-gray-700">Home</a></li>
