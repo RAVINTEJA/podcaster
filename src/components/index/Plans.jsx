@@ -11,7 +11,7 @@ function Plans() {
                 Choose your plan
             </h2>
 
-            <div className="flex justify-center">
+            <div className="md:flex justify-center">
                 {plans.map((plan) => {
                     return (
                         <PlanCard

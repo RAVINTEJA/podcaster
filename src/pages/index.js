@@ -11,9 +11,9 @@ const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
-    <main className='p-8 pt-4'>
+    <main className='p-8 w-full pt-4'>
       <Navbar />
-      <div className="bg-secondary rounded-3xl p-4 m-2 flex flex-col ">
+      <div className="bg-secondary min-w-screen  rounded-3xl p-4 m-2 flex flex-col ">
         {/* <!-- Child divs go here --> */}
         <Hero />
         <Explore />
